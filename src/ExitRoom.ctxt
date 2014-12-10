@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=nextRoom\ currentRoom
+comment0.target=ExitRoom(Room,\ Room)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ExitRoom\r\n
+comment1.params=
+comment1.target=Room\ open()
+comment1.text=\r\n\ Method\ open\ Leads\ to\ the\ next\ room\r\n
+comment2.params=
+comment2.target=Room\ getCurrentRoom()
+comment2.text=\r\n\ Method\ getCurrentRoom\ Returns\ the\ current\ room\r\n
+numComments=3

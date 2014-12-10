@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=myRoom
+comment0.target=Players(Room)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Players\r\n
+comment1.params=item
+comment1.target=void\ takeItem(Item)
+comment2.params=
+comment2.target=java.util.ArrayList\ getListItem()
+numComments=3

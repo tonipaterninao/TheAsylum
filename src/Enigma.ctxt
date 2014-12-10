@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=Question\ Answer1\ Answer2\ Answer3\ GoodAnswer
+comment0.target=Enigma(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Enigma\r\n
+comment1.params=
+comment1.target=void\ getEnigma()
+comment2.params=
+comment2.target=void\ getAnswer1()
+comment3.params=
+comment3.target=void\ getAnswer2()
+comment4.params=
+comment4.target=void\ getAnswer3()
+comment5.params=
+comment5.target=void\ getGoodAnswer()
+comment6.params=playerchoice
+comment6.target=boolean\ answer(java.lang.String)
+numComments=7

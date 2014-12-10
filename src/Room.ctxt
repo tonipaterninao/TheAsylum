@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=description
+comment0.target=Room(java.lang.String)
+comment0.text=\r\n\ Create\ a\ room\ described\ "description".\ Initially,\ it\ has\r\n\ no\ exits.\ "description"\ is\ something\ like\ "a\ kitchen"\ or\r\n\ "an\ open\ court\ yard".\r\n\ @param\ description\ The\ room's\ description.\r\n
+comment1.params=direction\ doors
+comment1.target=void\ addexits(java.lang.String,\ ExitRoom)
+comment1.text=\r\n\ Adds\ exits\ to\ a\ room.\ \r\n\ @param\ direction\ The\ position\ of\ the\ exit\r\n\ @param\ room\ The\ room\ the\ exit\ leads\ to.\r\n
+comment2.params=
+comment2.target=void\ getExits()
+comment3.params=direction\ item
+comment3.target=Room\ getNextRoom(java.lang.String,\ Item)
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment4.text=\r\n\ @return\ The\ description\ of\ the\ room.\r\n
+comment5.params=direction
+comment5.target=boolean\ isMagical(java.lang.String)
+numComments=6

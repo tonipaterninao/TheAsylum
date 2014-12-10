@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=nextRoom\ currentRoom\ password
+comment0.target=MagicalExit(Room,\ Room,\ Item)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MagicalRoom\r\n
+comment1.params=
+comment1.target=Item\ getItem()
+comment2.params=item
+comment2.target=Room\ open(Item)
+numComments=3

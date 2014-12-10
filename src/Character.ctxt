@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=myRoom\ life
+comment0.target=Character(Room,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Players\r\n
+comment1.params=
+comment1.target=void\ hurt()
+comment2.params=
+comment2.target=int\ getHealthPoint()
+numComments=3
