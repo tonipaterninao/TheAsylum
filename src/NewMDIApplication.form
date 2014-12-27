@@ -63,7 +63,7 @@
         <Component class="javax.swing.JButton" name="jButton2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Jan\Copy\GPhy\M1\S1\Anglais\Anglais\down_arrow.png"/>
+              <Image iconType="3" name="/right_arrow.png"/>
             </Property>
           </Properties>
           <Events>

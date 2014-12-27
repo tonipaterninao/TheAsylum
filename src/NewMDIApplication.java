@@ -43,7 +43,7 @@ public class NewMDIApplication extends javax.swing.JFrame {
         desktopPane.add(jButton1);
         jButton1.setBounds(10, 390, 40, 40);
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Jan\\Copy\\GPhy\\M1\\S1\\Anglais\\Anglais\\down_arrow.png")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/right_arrow.png"))); // NOI18N
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
