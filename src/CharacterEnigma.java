@@ -74,5 +74,7 @@ public class CharacterEnigma extends Character
             break;
                 
         }
+        System.out.println("Error in picking enigma choice");
+        return null;
     }
 }
